@@ -1,7 +1,9 @@
-# DETIKNewsScraper
+![CleanShot 2023-11-28 at 12 02 06](https://github.com/ibnufachrizal/DetikScrapper/assets/26188697/805e4cb1-9312-4c77-b4bd-f09d6288ca49)# DETIKNewsScraper
 Scraping detik.com by search keywords and total pages.
 
-- Live: [https://karvanpy-detiknewsscraper-detikscraper-1onlsx.streamlit.app/](https://walbiz-articles-scrapper.streamlit.app/)
+- Live: [https://walbiz-articles-scrapper.streamlit.app/)
+
+![CleanShot 2023-11-28 at 12 02 06](https://github.com/ibnufachrizal/DetikScrapper/assets/26188697/07f50852-17a3-4569-aa0d-9e36b3cfb3c1)
 
 ## Build with:
 - Python
