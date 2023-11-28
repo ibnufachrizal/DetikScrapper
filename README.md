@@ -1,4 +1,4 @@
-![CleanShot 2023-11-28 at 12 02 06](https://github.com/ibnufachrizal/DetikScrapper/assets/26188697/805e4cb1-9312-4c77-b4bd-f09d6288ca49)# DETIKNewsScraper
+# DETIKNewsScraper
 Scraping detik.com by search keywords and total pages.
 
 - Live: [https://walbiz-articles-scrapper.streamlit.app/)
