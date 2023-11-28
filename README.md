@@ -1,9 +1,7 @@
 # DETIKNewsScraper
 Scraping detik.com by search keywords and total pages.
 
-- Live: https://karvanpy-detiknewsscraper-detikscraper-1onlsx.streamlit.app/
-
-![](Screenshot_DETIKScraper.png)
+- Live: [https://karvanpy-detiknewsscraper-detikscraper-1onlsx.streamlit.app/](https://walbiz-articles-scrapper.streamlit.app/)
 
 ## Build with:
 - Python
